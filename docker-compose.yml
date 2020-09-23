@@ -1,0 +1,10 @@
+version: "3"
+services:
+  rotationapi:
+    image: rotationapi
+    container_name: rotationapi
+    build: .
+    ports:
+      - "5000:5000"
+
+
