@@ -1,4 +1,4 @@
-# Rotate Matrix API
+# Rotate Matrix REST API
 - [Getting Started](#getting-started)
   * [Requirements](#requirements)
   * [Installation](#installation)
