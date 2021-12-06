@@ -56,5 +56,5 @@ $ curl --data '{"matrix": [[1,2], [3,4]]}' -H "content-type: application/json"  
 ```
 * Response
 ```json
-{ "data": [ [2, 4], [1, 3] ] }
+{ "data" : [ [2, 4], [1, 3] ] }
 ```
